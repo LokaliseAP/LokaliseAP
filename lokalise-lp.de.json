@@ -1,0 +1,99 @@
+{
+    "product": {
+      "features": {
+        "ai_translation": "KI-Übersetzung",
+        "ai_quality_assurance": "KI-Qualitätssicherung",
+        "collaborative_translation": "Kollaborative Übersetzung",
+        "localization_workflow_management": "Verwaltung von Lokalisierungsworkflows",
+        "localization_process_automation": "Automatisierung des Lokalisierungsprozesses",
+        "translation_quality_assurance": "Qualitätssicherung bei Übersetzungen",
+        "in_context_editing": "In-Context-Bearbeitung",
+        "translation_services": "Übersetzungsdienste",
+        "real_time_support_translation": "Echtzeit-Unterstützungsübersetzung",
+        "lokalise_apps": "Lokalise-Apps",
+        "security": "Sicherheit"
+      },
+      "solutions": {
+        "for_developers": "Für Entwickler",
+        "for_product_managers": "Für Produktmanager",
+        "for_localization_managers": "Für Lokalisierungsmanager",
+        "for_translators": "Für Übersetzer",
+        "for_designers": "Für Designer",
+        "for_marketers": "Für Marketingfachleute",
+        "for_customer_service": "Für den Kundenservice",
+        "for_enterprise": "Für Unternehmen"
+      },
+      "developers": {
+        "resources": {
+          "developer_hub": "Entwickler-Hub",
+          "api_reference": "API-Referenz",
+          "cli_tool": "CLI-Tool",
+          "flutter_sdk": "Flutter-SDK",
+          "ios_sdk": "iOS-SDK",
+          "android_sdk": "Android SDK",
+          "file_formats": "Dateiformate",
+          "tutorials": "Anleitungen",
+          "developer_tools": "Entwicklertools"
+        }
+      },
+      "resources": {
+        "materials": {
+          "blog": "Blog",
+          "case_studies": "Fallstudien",
+          "library": "Bibliothek",
+          "academy": "Akademie",
+          "product_updates": "Produktaktualisierungen"
+        },
+        "partners": {
+          "documentation": "Dokumentation",
+          "pricing": "Preisgestaltung",
+          "become_a_partner": "Werden Sie Partner",
+          "find_a_partner": "Finden Sie einen Partner"
+        }
+      },
+      "careers": "Karrieren 🚀",
+      "login": "AnmeldenKostenlos ausprobierenProduktrundgang",
+      "description": "Was ist Lokalise",
+      "testimonial": {
+        "quote": "„Wahrscheinlich dauert es länger für Apple, die App zu überprüfen, als für uns, eine neue Sprache mit Lokalise auszurollen.“",
+        "author": "Edward Cooper, Chief Mobile Officer"
+      },
+      "ai_translation_feature": "Intelligenter übersetzen mit der Magie der KI NEU",
+      "localization_control": "Steuern Sie den Lokalisierungsprozess",
+      "market_time_reduction": "Verkürzung der Markteinführungszeit",
+      "quality_assurance": "Sicherstellung der Qualität",
+      "developer_workload": "Weniger Arbeit für Entwickler",
+      "localization_options": {
+        "web_apps": "Webanwendungen",
+        "customer_service": "Kundenservice",
+        "documents": "Dokumente",
+        "mobile_apps": "Mobilanwendungen",
+        "games": "Spiele",
+        "marketing_assets": "Marketingmaterialien"
+      },
+      "productivity_boost": {
+        "managers": "Steigern Sie die Produktivität Ihres Lokalisierungsteams um das Zehnfache",
+        "developers": "Entwickler",
+        "translators": "Übersetzer",
+        "designers": "Designer"
+      },
+      "api_example": "const lokalise = new LokaliseApi({apiKey: token}); lokalise.dateien.herunterladen( project_id, { format: \"json\", original_dateinamen: true });"
+    },
+    "company_info": {
+      "about": {
+        "localization_story": "Hinter den Kulissen der Lokalisierung bei einem der führenden digitalen Gesundheitsanbieter Europas",
+        "ai_beta_terms": "KI-Beta-Bedingungen"
+      },
+      "legal": {
+        "terms_of_service": "Nutzungsbedingungen",
+        "privacy_policy": "Datenschutzrichtlinie",
+        "cookie_policy": "Cookie-Richtlinie",
+        "cookies_settings": "Cookie-Einstellungen",
+        "dpa": "Datenschutz-Grundverordnung (DSGVO)",
+        "list_of_sub_processors": "Liste der Unterprozessoren",
+        "candidates_privacy_notice": "Hinweis zum Datenschutz für Bewerber",
+        "imprint": "Impressum",
+        "dev_hub_terms": "Bedingungen für die Entwicklerzentrale"
+      }
+    }
+  }  
